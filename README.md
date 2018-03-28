@@ -4,7 +4,7 @@
 
 先看下效果图吧，
 
-<img src="https://images2018.cnblogs.com/blog/950551/201803/950551-20180328155407090-1494088552.png" width="30%" height="30%">	<img src="https://images2018.cnblogs.com/blog/950551/201803/950551-20180328155047412-1578574116.png" width="30%" height="30%">	<img src="https://images2018.cnblogs.com/blog/950551/201803/950551-20180328155053393-1416994601.png" width="30%" height="30%">
+![](https://github.com/qqcc1388/MarqueeViewDemo/blob/master/source/marquee.gif)
 
 我的这个demo中分为3个部分
 * HXQMarqueeView 用来显示跑马灯的显示区域，接受滚动的数据源，并且手动控制动画的开启。
