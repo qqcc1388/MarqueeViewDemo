@@ -160,4 +160,4 @@
 
 更多详情请参考demo: https://github.com/qqcc1388/MarqueeViewDemo 
 
-转载请标注来源：http://www.cnblogs.com/tinych/p/8664280.html
+转载请标注来源：http://www.cnblogs.com/qqcc1388/p/8664280.html
