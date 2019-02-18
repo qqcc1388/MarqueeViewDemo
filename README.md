@@ -2,6 +2,7 @@
 
 整体思路大概就是在scrollView中添加多个view,让这几个view依次排列在在scrollView中，动态计算scrollView的frame,让其宽度刚好是所有view的总宽度和，然后把scrollView的x初始值设置在屏幕以外，通过一个定时器，让scrollView每隔一段时间就移动一定的距离，这个时间可以微调，确保不会出现滚动的时候抖动的问题，当scrollView滚出可见区域了，再把scrollView的frame恢复到初始值即可
 
+[Swift版本](https://github.com/qqcc1388/MarqueeView-Swift)
 先看下效果图吧，
 
 ![](https://github.com/qqcc1388/MarqueeViewDemo/blob/master/source/marquee.gif)
